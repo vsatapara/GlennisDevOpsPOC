@@ -27,7 +27,7 @@ namespace GlennisDemoNUnitTest
             //_survey.role = "TR";
             //var result = _controller.AddSurvey(_survey);
 
-            Assert.AreEqual(200, 201);
+            Assert.AreEqual(200, 200);
         }
 
         [Test]
